@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://obcdermax.github.io/MainPage/</id>
-    <title>你好 旅人</title>
-    <updated>2021-09-08T03:32:30.678Z</updated>
+    <title>Space Ship In Trouble</title>
+    <updated>2021-09-08T03:35:36.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://obcdermax.github.io/MainPage/"/>
     <link rel="self" href="https://obcdermax.github.io/MainPage/atom.xml"/>
-    <subtitle>我们都是宇宙中的尘埃</subtitle>
+    <subtitle>Emergency Alert</subtitle>
     <logo>https://obcdermax.github.io/MainPage/images/avatar.png</logo>
     <icon>https://obcdermax.github.io/MainPage/favicon.ico</icon>
-    <rights>All rights reserved 2021, 你好 旅人</rights>
+    <rights>All rights reserved 2021, Space Ship In Trouble</rights>
     <entry>
         <title type="html"><![CDATA[Somewhere In Space]]></title>
         <id>https://obcdermax.github.io/MainPage/post/zhu-ye-tiao-zhuan/</id>
