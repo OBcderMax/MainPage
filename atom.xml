@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://obcdermax.github.io/MainPage/</id>
     <title>Space Ship In Trouble</title>
-    <updated>2021-09-08T05:30:30.852Z</updated>
+    <updated>2021-09-08T05:32:55.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://obcdermax.github.io/MainPage/"/>
     <link rel="self" href="https://obcdermax.github.io/MainPage/atom.xml"/>
@@ -27,7 +27,7 @@
 <p><a href="/MainPage/post/be-left-to-gods-mercy">Be left to God's mercy</a><br>
 [Repair the damaged ship]<br>
 <a href="https://obcdermax.github.io/">Take the escape pod</a><br>
-<a href="/MainPage/post/send-a-disdress-signal">Send a distress signal</a></p>
+<a href="/MainPage/post/send-a-distress-signal">Send a distress signal</a></p>
 ]]></content>
     </entry>
 </feed>
